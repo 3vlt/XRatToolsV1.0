@@ -24,7 +24,7 @@ L'objectif principal est de simplifier la collecte de données publiques (*Threa
 ## 🚀 Installation & Utilisation
 
 ### Prérequis
-- Python 3.8+ (ou dépendances requises selon ton stack)
+- Python 3.13+ (ou dépendances requises selon ton stack)
 - Git
 
 ### Cloner le projet
