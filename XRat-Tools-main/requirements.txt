@@ -1,0 +1,11 @@
+pystyle
+colorama
+requests
+whois
+customtkinter
+fade
+instaloader
+cryptography
+discord.py
+clear
+python-whois
