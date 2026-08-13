@@ -31,4 +31,5 @@ L'objectif principal est de simplifier la collecte de données publiques (*Threa
 ### Télécharger le projet
 ```bash
 curl -L -o XRatToolsV1.0 "https://github.com/3vlt/XRatToolsV1.0/archive/refs/heads/main.zip"
-cd 
+cd \Downloads\XRatToolsV1.0.zip\XRatToolsV1.0-main
+python XRat.py
