@@ -1,4 +1,5 @@
 # 🔍 XRAT - Open Source Intelligence (OSINT) Framework
+<img width="1113" height="627" alt="XRat Tools 10_08_2026 14_53_31" src="https://github.com/user-attachments/assets/92d0a6c7-92ad-457a-8f70-5e34d5c313ba" />
 
 > **XRAT** est un outil d'investigation et d'analyse OSINT (*Open Source Intelligence*) conçu pour regrouper, automatiser et structurer la recherche d'informations publiques provenant de sources ouvertes.
 
