@@ -10,6 +10,8 @@ Inspiré par la structure et la philosophie d'outils d'analyse comme **Void Pane
 
 L'objectif principal est de simplifier la collecte de données publiques (*Threat Intelligence*, vérification d'empreinte numérique) tout en garantissant un cadre clair et structuré.
 
+XRatTools est un outil développé à des fins **strictement éducatives** et de recherche en **cybersécurité**, destiné uniquement à être utilisé dans un cadre **légal et autorisé.**
+
 ---
 
 ## ✨ Fonctionnalités principales
